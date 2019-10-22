@@ -15,5 +15,7 @@
     <p style="cursor: pointer" (clickOutside)="outSide()">clickOutside（点我以外的区域会触发）</p>
     
 ## 打包组件和模块发布到npm，并使用
-    
+   ![](https://github.com/xueyeqing/zyzhang-demo/blob/master/src/assets/one.png)
+   ![](https://github.com/xueyeqing/zyzhang-demo/blob/master/src/assets/two.png)
+   ![](https://github.com/xueyeqing/zyzhang-demo/blob/master/src/assets/three.png)
 
