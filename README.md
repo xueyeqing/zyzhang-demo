@@ -13,4 +13,7 @@
 
    ### 外部点击触发事件----（clickOutside）
     <p style="cursor: pointer" (clickOutside)="outSide()">clickOutside（点我以外的区域会触发）</p>
+    
+## 打包组件和模块发布到npm，并使用
+    
 
