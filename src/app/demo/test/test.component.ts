@@ -12,4 +12,7 @@ export class TestComponent implements OnInit {
   ngOnInit() {
   }
 
+  outSide() {
+    console.log("我被触发了");
+  }
 }

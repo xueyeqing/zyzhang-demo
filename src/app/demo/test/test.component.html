@@ -1,1 +1,6 @@
-<p>test works!</p>
+<div>
+  <p>{{'2016-01-24 14:23:45' | dateFormat: 'YYYY-MM-DD h:mm:ss'}}</p>
+  <p>{{1571727995000 | dateFormat: 'YYYY-MM-DD h:mm:ss'}}</p>
+
+  <p style="cursor: pointer" (clickOutside)="outSide()">clickOutside（点我以外的区域会触发）</p>
+</div>
